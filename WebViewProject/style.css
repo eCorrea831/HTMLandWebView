@@ -1,0 +1,26 @@
+body {
+    font-family: 'Laila', serif;
+    font-size: 10px;
+    color: #85291D;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+h1 {
+    font-size: 3em;
+    font-weight: 100;
+    text-align: center;
+}
+
+p {
+    font-weight: 200;
+    font-size: 2em;
+    letter-spacing: -.1em;
+    max-width: 40%;
+    margin-left: 5.5em;
+    text-align: center;
+}
+
+form {
+    margin-left: 14.5em;
+}
